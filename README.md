@@ -52,16 +52,6 @@ python banco.py
 
 ---
 
-## 📦 Estrutura do Projeto
-
-Arquivo único:
-
-```
-banco.py
-```
-
----
-
 ## 🎩 Tela de Logout
 
 Ao finalizar, o programa exibe uma mensagem de encerramento divertida com uma carinha feita em ASCII Art:
@@ -74,15 +64,6 @@ Ao finalizar, o programa exibe uma mensagem de encerramento divertida com uma ca
       |  \___/  |
        \_______/
 ```
-
----
-
-## 🤝 Contribuição
-
-Sinta-se livre para sugerir melhorias, abrir issues ou enviar pull requests!
-
----
-
 ## 🧑‍💻 Autor
 
 Desenvolvido por **Leonardo Kalil** — Banco Kalil's Data 🏦
